@@ -1,4 +1,4 @@
-# Airline-Ticket-Booking-System with COWIN Certificate Verification
+# Airline-Ticket-Booking-and-Confirmation-System 
 
 After extracting the project file:
 
@@ -14,4 +14,4 @@ After extracting the project file:
     - cd ./src/flight-booking
     - http-server -p 3055
 
-And that's it !!!
+
